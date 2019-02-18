@@ -24,7 +24,6 @@ hs_err_pid
 
 .idea/*
 out/
-/*/*/*/src/Main.java
 !.idea/stepik_study_project.xml
 *.xml
 *.iml
