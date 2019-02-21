@@ -2,6 +2,7 @@ class Main {
 //Stepik code: start
 
     /**
+     * Реализуйте метод, проверяющий, является ли заданное число по абсолютной величине степенью двойки.
      * Checks if given <code>value</code> is a power of two.
      *
      * @param value any number
